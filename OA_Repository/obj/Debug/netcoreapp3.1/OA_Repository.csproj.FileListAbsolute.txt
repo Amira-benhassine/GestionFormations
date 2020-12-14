@@ -1,0 +1,12 @@
+C:\AspNetMvc\GestionFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+C:\AspNetMvc\GestionFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csprojAssemblyReference.cache
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+C:\AspNetMvc\GestionFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\AspNetMvc\GestionFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.dll
+C:\AspNetMvc\GestionFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.pdb
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb

@@ -1,0 +1,9 @@
+C:\AspNetMvc\GestionFormations\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.deps.json
+C:\AspNetMvc\GestionFormations\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.dll
+C:\AspNetMvc\GestionFormations\OA_DataAccess\bin\Debug\netcoreapp3.1\OA_DataAccess.pdb
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.csprojAssemblyReference.cache
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.AssemblyInfoInputs.cache
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.AssemblyInfo.cs
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.csproj.CoreCompileInputs.cache
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.dll
+C:\AspNetMvc\GestionFormations\OA_DataAccess\obj\Debug\netcoreapp3.1\OA_DataAccess.pdb
