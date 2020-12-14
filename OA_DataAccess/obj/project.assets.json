@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\abenhassine\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
       "projectName": "OA_DataAccess",
-      "projectPath": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj",
-      "packagesPath": "C:\\Users\\abenhassine\\.nuget\\packages\\",
-      "outputPath": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abenhassine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

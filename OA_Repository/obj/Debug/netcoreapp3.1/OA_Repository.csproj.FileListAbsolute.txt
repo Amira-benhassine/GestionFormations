@@ -10,3 +10,15 @@ C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Reposito
 C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
 C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
 C:\AspNetMvc\GestionFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.deps.json
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.dll
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\bin\Debug\netcoreapp3.1\OA_DataAccess.pdb
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.AssemblyInfo.cs
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CopyComplete
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.dll
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.pdb
+C:\Users\PC\source\repos\GestionPlanFormations\OA_Repository\obj\Debug\netcoreapp3.1\OA_Repository.csproj.CoreCompileInputs.cache

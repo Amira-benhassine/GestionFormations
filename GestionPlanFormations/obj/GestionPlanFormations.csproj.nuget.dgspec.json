@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AspNetMvc\\GestionFormations\\GestionPlanFormations\\GestionPlanFormations.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\GestionPlanFormations\\GestionPlanFormations.csproj": {}
   },
   "projects": {
-    "C:\\AspNetMvc\\GestionFormations\\GestionPlanFormations\\GestionPlanFormations.csproj": {
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\GestionPlanFormations\\GestionPlanFormations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AspNetMvc\\GestionFormations\\GestionPlanFormations\\GestionPlanFormations.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\GestionPlanFormations\\GestionPlanFormations.csproj",
         "projectName": "GestionPlanFormations",
-        "projectPath": "C:\\AspNetMvc\\GestionFormations\\GestionPlanFormations\\GestionPlanFormations.csproj",
-        "packagesPath": "C:\\Users\\abenhassine\\.nuget\\packages\\",
-        "outputPath": "C:\\AspNetMvc\\GestionFormations\\GestionPlanFormations\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\GestionPlanFormations\\GestionPlanFormations.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\GestionPlanFormations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abenhassine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj"
+              },
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\OA_Service.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\OA_Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,17 +47,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -75,7 +82,188 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+        "projectName": "OA_DataAccess",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj",
+        "projectName": "OA_Repository",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\OA_Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\OA_Service.csproj",
+        "projectName": "OA_Service",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\OA_Service.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj"
+              },
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

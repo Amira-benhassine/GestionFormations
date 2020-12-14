@@ -9,7 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using GestionPlanFormations.Data;
+using OA_Repository;
+using OA_Service;
 
 namespace GestionPlanFormations
 {
@@ -29,6 +30,11 @@ namespace GestionPlanFormations
 
             services.AddDbContext<GestionPlanFormationsContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("GestionPlanFormationsContext")));
+
+
+            services.AddMvc().AddXmlSerializerFormatters();
+            services.AddScoped<ICategorieRepository, CategorieRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

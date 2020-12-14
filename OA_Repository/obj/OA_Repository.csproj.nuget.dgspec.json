@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AspNetMvc\\GestionFormations\\OA_Repository\\OA_Repository.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj": {}
   },
   "projects": {
-    "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
         "projectName": "OA_DataAccess",
-        "projectPath": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj",
-        "packagesPath": "C:\\Users\\abenhassine\\.nuget\\packages\\",
-        "outputPath": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abenhassine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\AspNetMvc\\GestionFormations\\OA_Repository\\OA_Repository.csproj": {
+    "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AspNetMvc\\GestionFormations\\OA_Repository\\OA_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj",
         "projectName": "OA_Repository",
-        "projectPath": "C:\\AspNetMvc\\GestionFormations\\OA_Repository\\OA_Repository.csproj",
-        "packagesPath": "C:\\Users\\abenhassine\\.nuget\\packages\\",
-        "outputPath": "C:\\AspNetMvc\\GestionFormations\\OA_Repository\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\OA_Repository.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abenhassine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
-                "projectPath": "C:\\AspNetMvc\\GestionFormations\\OA_DataAccess\\OA_DataAccess.csproj"
+              "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\GestionPlanFormations\\OA_DataAccess\\OA_DataAccess.csproj"
               }
             }
           }
@@ -95,6 +95,14 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.1, )"
             }
@@ -114,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
